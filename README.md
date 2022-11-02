@@ -1,6 +1,6 @@
 # As-Regas-Do-Logo
 
-Aplicativo que realiza um onboarding walkthrough pelas Regas de desenvolvimento de uma Logo
+Aplicativo que realiza um 'Onboarding Walkthrough' pelas Regras de desenvolvimento de uma Logo para facilitar a vida dos pequenos padawans...
 
 ##LogoNãoÉbagunçaFera
 ##EssaPohr@TemLei
