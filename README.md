@@ -3,10 +3,10 @@
 Aplicativo que realiza um 'Onboarding Walkthrough' pelas Regras de desenvolvimento de uma Logo para facilitar a vida dos pequenos padawans...
 
 The Ultimate Guide for the Logo Rules
+
 #DontSkrullUp
 #FFS
 #BadDesignM@therFuck&r
-
 #LogoNãoÉbagunçaFera
 #EssaPohr@TemLei
 
