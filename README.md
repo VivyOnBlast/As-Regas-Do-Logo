@@ -5,9 +5,13 @@ Aplicativo que realiza um 'Onboarding Walkthrough' pelas Regras de desenvolvimen
 The Ultimate Guide for the Logo Rules
 
 #DontSkrullUp
+
 #FFS
+
 #BadDesignM@therFuck&r
+
 #LogoNãoÉbagunçaFera
+
 #EssaPohr@TemLei
 
 ## Integrantes 
